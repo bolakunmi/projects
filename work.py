@@ -113,4 +113,4 @@ def tictactoe():
 #sort out when its a tie
 #victory check isnt working yet
 #first player isnt working well.
-tictactoe()
+tictactoe() 
